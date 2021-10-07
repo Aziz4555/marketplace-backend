@@ -1,3 +1,3 @@
 # lebazarduweb
-Création d'une marketplace 
+Création d'une marketplace <br/>
 Utilisation de Strapi
